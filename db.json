@@ -1,5 +1,7 @@
 {
-  "standardTax": 0.1,
+  "getStandardTax": { "standardTax": 0.1 },
+  "getUpsCost": { "cost": 0.3 },
+  "getFedexCost": { "cost": 0.5 },
   "profile": {
     "name": "typicode"
   }
